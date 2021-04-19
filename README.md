@@ -38,3 +38,19 @@ Preparados? Então vamos lá!
 - [Projeto no Figma](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate)
 
 - [Material para a aula 01](https://www.notion.so/Material-para-a-aula-01-16cb87eb0a9b496dab5fc8a3b95b9cb0)
+
+#### Dias
+- Dia 1: Liftoff - :heavy_check_mark:
+>We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
+
+- Dia 2 - :heavy_check_mark:
+>
+
+- Dia 3 - :heavy_check_mark:
+>
+
+- Dia 4 - :heavy_check_mark:
+>
+
+- Dia 5 - :heavy_check_mark:
+>
