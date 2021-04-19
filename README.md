@@ -30,3 +30,5 @@ Preparados? Então vamos lá!
 - [Tive problemas, e agora?](https://www.notion.so/Tive-problemas-e-agora-7e22256c197b4a37a197ef30e4448b7e)
 
 - [Projeto no Figma](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate)
+
+- [Material para a aula 01](https://www.notion.so/Material-para-a-aula-01-16cb87eb0a9b496dab5fc8a3b95b9cb0)
