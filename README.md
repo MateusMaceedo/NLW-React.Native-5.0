@@ -1,1 +1,1 @@
-# NLW-React.JS-0.5
+[Projeto no Figma](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate)
