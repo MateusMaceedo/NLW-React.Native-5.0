@@ -1,4 +1,9 @@
-# Introdução
+<h1 align="center">
+<img src="https://xesque.rocketseat.dev/platform/1586184755042.svg" width="110" height="110">
+ <br>
+</h1>
+
+## Introdução
 
 Fala Dev! Seja muito bem vindo à **Next Level Week 05**, trilha **React Native**🚀 
 
