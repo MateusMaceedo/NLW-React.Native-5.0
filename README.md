@@ -1,5 +1,6 @@
 <h1 align="center">
 <img src="https://xesque.rocketseat.dev/platform/1586184755042.svg" width="110" height="110">
+<img src=" https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39231985-387c-4a5f-8b85-15bf5c59265f%2F__6nlw.png?table=block&id=16cb87eb-0a9b-496d-ab5f-c8a3b95b9cb0&width=250&userId=a79ee7a5-4c57-4287-a676-083310e9d184&cache=v2" width="110" height="110">
  <br>
 </h1>
 
