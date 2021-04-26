@@ -33,6 +33,13 @@ Preparados? Então vamos lá!
 
 ---
 
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie seu app com `expo start`
+- Inicie a fake api com `json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700`. Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+
 ## Guias
 
 - [Instalação das ferramentas](https://www.notion.so/Instala-o-das-ferramentas-858b4e25282b46149b6b4a4114e414ba)
