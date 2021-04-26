@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img alt="Template" src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/plantmanager.png?raw=true">
-
  <img src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/logo.png?raw=true" alt="NLW 05" />
+ 
+  <img alt="Template" src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/plantmanager.png?raw=true">
 </p>
 
 ## Introdução
