@@ -39,21 +39,12 @@ Preparados? Então vamos lá!
 
 - [Material para a aula 01](https://www.notion.so/Material-para-a-aula-01-16cb87eb0a9b496dab5fc8a3b95b9cb0)
 
-#### Dias
-- Dia 1: Liftoff - :heavy_check_mark:
->We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
 
-- Dia 2 - :heavy_check_mark:
->
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
+</p>
 
-- Dia 3 - :heavy_check_mark:
->
-
-- Dia 4 - :heavy_check_mark:
->
-
-- Dia 5 - :heavy_check_mark:
->
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
