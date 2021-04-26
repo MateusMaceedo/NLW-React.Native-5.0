@@ -36,7 +36,7 @@ Preparados? Então vamos lá!
 **Clone the project and access the folder**
 
  ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/MateusMaceedo/NLW-React.Native-5.0.git
 ```
 
 ```bash
