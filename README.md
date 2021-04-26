@@ -4,6 +4,12 @@
  <br>
 </h1>
 
+<p align="center">
+  <img alt="Template" src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/plantmanager.png?raw=true">
+
+ <img src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/logo.png?raw=true" alt="NLW 05" />
+</p>
+
 ## Introdução
 
 Fala Dev! Seja muito bem vindo à **Next Level Week 05**, trilha **React Native**🚀 
@@ -38,13 +44,6 @@ Preparados? Então vamos lá!
 - [Projeto no Figma](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate)
 
 - [Material para a aula 01](https://www.notion.so/Material-para-a-aula-01-16cb87eb0a9b496dab5fc8a3b95b9cb0)
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
-
- <img src="https://github.com/MateusMaceedo/NLW-React.Native-5.0/blob/main/img/logo.png?raw=true" alt="NLW 05" />
-</p>
-
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
