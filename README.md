@@ -12,13 +12,13 @@
 
 ## Introdução
 
-Fala Dev! Seja muito bem vindo à **Next Level Week 05**, trilha **React Native**🚀 
+**Next Level Week 05**, trilha **React Native**🚀 
 
-Para começar a preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso app finalizado.
+Para começar configurando o ambiente de desenvolvimento, com algumas ferramentas fundamentais para termos o app rodando.
 
 ## Preparando o ambiente
 
-Sem mais delongas, vamos ao conteúdo principal desse guia: configuração do seu ambiente para o NLW. Teremos três etapas principais na seção "**Instalação"**:
+Configuração e "**Instalação"**:
 
 - Node + NPM;
 - Yarn;
