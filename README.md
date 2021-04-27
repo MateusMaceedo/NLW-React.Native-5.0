@@ -25,9 +25,9 @@ Configuração e "**Instalação"**:
 - Expo;
 - Visual Studio Code e configurações.
 
-Se você já participou de alguma das nossas outras NLWs, já deve ter tudo isso instalado, mas talvez desatualizado. Por isso, preparamos uma seção "**Atualização"** para você atualizar suas dependências caso precise, mas sugerimos dar uma olhada pelo menos no guia Visual Studio Code na seção "**Instalação"** pois o Diego deixou algumas configs especialmente para você 💜
+Se você já participou de alguma das outras NLWs, já deve ter tudo isso instalado, mas talvez desatualizado. Por isso, existe uma seção "**Atualização"** para você atualizar suas dependências caso precise, mas sugiro dar uma olhada pelo menos no guia Visual Studio Code na seção "**Instalação"** pois o Diego deixou algumas configs muito legais 💜
 
-Preparados? Então vamos lá!
+Vamos lá!
 
 ![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif)
 
