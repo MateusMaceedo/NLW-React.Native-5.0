@@ -32,9 +32,7 @@ Se você já participou de alguma das outras NLWs, já deve ter tudo isso instal
 
 Vamos lá!
 
-<h1 align="center">
 ![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif)
-</h1>
 
 ---
 
