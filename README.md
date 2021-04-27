@@ -58,6 +58,8 @@ $ expo start
 
 - [Projeto no Figma](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate)
 
+Todo o projeto foi desenvolvido ao logo da semana NLW, que tem como principal objetivo mostrar na pratica a melhor forma de desenvolver uma aplicação do zero, claro aqui tem alguma animações e algumas especializações, tentei deixar o mais proximo da minha forma de desenvolver, contanto com as principais praticas de desenvolvimento, modelagem e testes, para assim ganhar ainda mais volumetria e pratica ao decorrer de toda a semana, claro o ponta pé inicial é por grande parte da rockt, mais aqui mostro a minha versão com base em todo o conteudo gratuito disponilizado pelo mesmo.
+
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
  <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
