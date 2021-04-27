@@ -25,7 +25,7 @@ Configuração e "**Instalação"**:
 - Visual Studio Code e configurações.
 
 <p align="justify">
-Todo o projeto foi desenvolvido ao logo da semana NLW, que tem como principal objetivo mostrar na pratica a melhor forma de desenvolver uma aplicação do zero, claro aqui tem alguma animações e algumas especializações, tentei deixar o mais proximo da minha forma de desenvolver, contanto com as principais praticas de desenvolvimento, modelagem e testes, para assim ganhar ainda mais volumetria e pratica ao decorrer de toda a semana, claro o ponta pé inicial é por grande parte da [Rocketseat](https://rocketseat.com.br), mais aqui mostro a minha versão com base em todo o conteudo gratuito disponilizado pelo mesmo.
+Todo o projeto foi desenvolvido ao logo da semana NLW, que tem como principal objetivo mostrar na pratica a melhor forma de desenvolver uma aplicação do zero, claro aqui tem alguma animações e algumas especializações, tentei deixar o mais proximo da minha forma de desenvolver, contanto com as principais praticas de desenvolvimento, modelagem e testes, para assim ganhar ainda mais volumetria e pratica ao decorrer de toda a semana, claro o ponta pé inicial é por grande parte da Rocketseat, mais aqui mostro a minha versão com base em todo o conteudo gratuito disponilizado pelo mesmo.
 <p>
 
 Se você já participou de alguma das outras NLWs, já deve ter tudo isso instalado, mas talvez desatualizado. Por isso, existe uma seção "**Atualização"** para você atualizar suas dependências caso precise, mas sugiro dar uma olhada pelo menos no guia Visual Studio Code na seção "**Instalação"** pois o Diego deixou algumas configs muito legais 💜
